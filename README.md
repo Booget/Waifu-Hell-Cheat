@@ -8,5 +8,19 @@
   ## 🖥️ How can I use this?
 - ⚡ You can go to monocheat > bin > debug > and then get the MonoCheat.dll DLL. This is what you want to inject into the game with a MonoInjector. I recomend using SharpMonoInjector. When using SharpMonoInjector for the class name enter HentaiKilla and then for method name use Load.
 
+  ## 🖥️ Features
+- ⚡ Godmode
+- ⚡ Unlimited ammo
+- ⚡ Bhop
+- ⚡ Speed changer
+- ⚡ Jump height
+- ⚡ Gravity changer
+- ⚡ Take -10 damage
+- ⚡ Kill yourself
+- ⚡ Add score to leaderboard
+- ⚡ FOV changer
+- ⚡ Height changer
+- ⚡ Air controller
+
 For any questions feel free to message me on discord, booget#0001!
 
